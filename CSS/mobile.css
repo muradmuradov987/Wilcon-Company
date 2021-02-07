@@ -1,0 +1,233 @@
+    /*MAIN TEXT*/
+    
+    .photo-text {
+        top: 10px;
+        left: 30px;
+    }
+    
+    .photo-text h1 {
+        font-size: 15px;
+    }
+    
+    .photo-text p {
+        width: 200px;
+        padding-top: 5px;
+        line-height: 10px;
+        font-size: 5px;
+        padding-bottom: 5px;
+    }
+    
+    .service-btn {
+        font-size: 8px;
+        width: 70px;
+        height: 20px;
+    }
+    
+    .request-btn {
+        font-size: 8px;
+        width: 90px;
+        height: 20px;
+    }
+    /*CARDS*/
+    
+    .cards {
+        margin-top: 10px;
+    }
+    
+    .card-info i {
+        padding: 8px;
+        font-size: 15px;
+    }
+    
+    .card-info h2 {
+        padding: 0px;
+        font-size: 10px;
+        line-height: 10px;
+        margin-bottom: 2px;
+    }
+    
+    .card-info p {
+        margin-top: 0px;
+        padding: 0px;
+        font-size: 7px;
+        line-height: 10px;
+        margin-left: 10px;
+    }
+    /*ABOUT US*/
+    
+    #aboutus {
+        position: relative;
+    }
+    
+    .about-photo img {
+        padding: 0px;
+        width: 320px;
+        height: 400px;
+    }
+    
+    .about-company {
+        position: absolute;
+        top: 40px;
+        width: 300px;
+        height: 300px;
+    }
+    
+    .about-company h1 {
+        font-size: 15px;
+    }
+    
+    .about-logo {
+        display: flex;
+        flex-direction: column;
+        padding-top: 20px;
+    }
+    
+    .about-logo i {
+        font-size: 30px;
+    }
+    
+    .about-logo p {
+        font-size: 10px;
+        color: white;
+    }
+    
+    .info p {
+        font-size: 10px;
+        color: white;
+    }
+    /*---------SERVICES-----*/
+    
+    .text-services h1 {
+        font-size: 25px;
+    }
+    
+    .cards-items {
+        width: 100px;
+        margin: 4px;
+    }
+    
+    .card-text h1 {
+        font-size: 10px;
+    }
+    
+    .card-text p {
+        font-size: 5px;
+        letter-spacing: 1px;
+    }
+    
+    .card-btn {
+        width: 80px;
+        padding: 5px;
+        font-size: 7px;
+    }
+    /*----------STATISTIC-------*/
+    
+    #statistic {
+        margin-top: 15px;
+    }
+    
+    .s-text-items {
+        top: 10px;
+        left: 20px;
+        width: 140px;
+    }
+    
+    .s-text-items h1 {
+        color: #FC5E28;
+        letter-spacing: 2px;
+        font-size: 7px;
+    }
+    
+    .s-text-items h2 {
+        margin-top: 3px;
+        font-size: 5px;
+    }
+    
+    .s-text-items h3 {
+        color: #FC5E28;
+        letter-spacing: 1px;
+        font-size: 5px;
+        margin-top: 5px;
+        line-height: 5px;
+    }
+    
+    .s-text-items p {
+        margin-top: 5px;
+        font-size: 5px;
+        line-height: 5px;
+        letter-spacing: 1px;
+    }
+    /*----------LASTEST PROJECT-------*/
+    
+    .project-text h1 {
+        font-size: 25px;
+    }
+    
+    .pro-card {
+        width: 100px;
+        margin: 5px;
+    }
+    
+    .pro-info {
+        width: 70px;
+        top: 80px;
+        border-radius: 5px;
+    }
+    
+    .pro-info h5 {
+        font-size: 7px;
+        letter-spacing: 2px;
+        margin-top: 2px;
+    }
+    
+    .pro-info h4 {
+        margin-top: 0px;
+        font-size: 5px;
+    }
+    
+    .pro-info span i {
+        font-size: 5px;
+    }
+    
+    .pro-info span {
+        font-size: 5px;
+    }
+    /*----------CONTACT US-------*/
+    
+    .contact-items {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    .input-items {
+        margin: 20px;
+    }
+    
+    .input-items .name {
+        width: 150px;
+        height: 15px;
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+    
+    .input-items .contact-email {
+        width: 150px;
+        height: 15px;
+        font-size: 13px;
+    }
+    
+    .input-items .subject {
+        border: white none;
+        font-size: 13px;
+    }
+    
+    .input-items .textarea {
+        width: 100%;
+        height: 60px;
+        font-size: 13px;
+    }
+    
+    .contact-submit {
+        width: 80px;
+        height: 30px;
+    }
